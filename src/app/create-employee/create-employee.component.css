@@ -1,0 +1,21 @@
+* {
+  font-family: Roboto;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 40px;
+  margin-bottom: 40px;
+  margin-left: 480px;
+  color: #0b3f69;
+}
+
+form {
+  margin-top: 40px;
+}
+
+.btn {
+  background-color: #006f6f;
+  border-color: #006f6f;
+  width: 150px;
+}

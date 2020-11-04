@@ -1,0 +1,44 @@
+tr:nth-child(2n+2) {
+  background: #0b3f69;
+  color: #FFF;
+}
+
+th {
+  font-size: 20px;
+  padding: 15px;
+}
+
+td {
+  font-size: 20px;
+  padding: 15px;
+}
+
+.btn-success {
+  background-color: #006f6f;
+  border-color: #006f6f;
+  width: 150px; 
+}
+
+
+.btn-info {
+  background-color: #006f6f;
+  border-color: #006f6f;
+  width: 100px;
+  margin-right: 25px;
+  
+}
+
+.btn-danger {
+  background-color: #008b8b;
+  border-color: #008b8b;
+  width: 100px;
+  margin-right: 25px;
+}
+
+.btn-view {
+  background-color: #00aeae;
+  border-color: #00aeae;
+  width: 100px;
+  color: #FFF;
+
+}
